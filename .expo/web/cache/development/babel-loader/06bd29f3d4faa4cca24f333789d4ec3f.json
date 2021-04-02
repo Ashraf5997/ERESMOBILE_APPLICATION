@@ -1,0 +1,1 @@
+{"ast":null,"code":"module.exports = require(\"./lib/axios\");","map":{"version":3,"sources":["E:/Desktop/doc/react_native_app/ERES_MOBILE_APP/node_modules/react-native-axios/index.js"],"names":["module","exports","require"],"mappings":"AAAAA,MAAM,CAACC,OAAP,GAAiBC,OAAO,eAAxB","sourcesContent":["module.exports = require('./lib/axios');"]},"metadata":{},"sourceType":"script"}
